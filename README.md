@@ -1,8 +1,13 @@
-# 🧹 Data Cleaning Project — Python & Pandas
+# Projeto de Limpeza e Análise de Dados em Python
 
-Este repositório contém um projeto completo de limpeza, padronização e análise de dados usando Python e Pandas.
+Este projeto demonstra habilidades essenciais para vagas de análise de dados e ciência de dados,
+incluindo:
 
----
+- Manipulação e limpeza de dados
+- Tratamento de valores ausentes
+- Criação de funções reutilizáveis
+- Visualização de dados
+- Organização de projeto no padrão profissional
 
-## 📁 Estrutura do Repositório
+## 🗂 Estrutura do Projeto
 
